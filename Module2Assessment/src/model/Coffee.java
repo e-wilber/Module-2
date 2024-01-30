@@ -2,7 +2,7 @@ package model;
 
 /**
  * @author ${ewilber} - ewilber
- * CIS175 - Spring 2024
+ * CIS175 - Spring 2024-
  * ${Jan 28, 2024}
  */
 public class Coffee {
